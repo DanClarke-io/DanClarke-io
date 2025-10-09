@@ -12,7 +12,7 @@ I’m passionate about building clean, efficient web solutions that solve real b
 - **DevOps & Infrastructure:** Linux, Docker, DigitalOcean and server management  
 
 ### 🚀 What I'm Working On
-- Expanding my portfolio at [**danclarke.io**](https://danclarke.io)  
+- Expanding my portfolio at [**danclarke.io**](https://danclarke.io/?from=github)  
 - Open-source ESP32 automation projects  
 - Exploring modern web stacks and deployment pipelines  
 
