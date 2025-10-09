@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-I’m **Dan Clarke** — a web developer & ERP systems admin with 20+ years of experience building websites and managing complex business systems.
+I’m **Dan Clarke** — a Web Developer and Systems Administrator with over **20 years of experience** in technology, including **PHP**, **CMS development**, **automation**, and **system integrations**.  
 
-- 🔭 I’m currently working on full-stack web projects and ERP automation tools  
-- 🌱 I’m learning modern frameworks, cloud deployments, and system integrations  
-- 👯 I’m open to collaborating on open-source projects, IoT, and automation tools  
-- 💬 Ask me about **web development, ERP systems, or van life adventures!**  
-- 📫 Reach me via [danclarke.io](https://danclarke.io) | contact@danclarke.io
+I’m passionate about building clean, efficient web solutions that solve real business problems — from full-stack web apps and ERP systems to connected IoT devices running on ESP32s.
 
-### Some Highlights
-- 🌐 **Web Development:** Front-end frameworks, CMS platforms, and bespoke apps  
-- 🛠 **ERP & Systems Admin:** Global ERP admin, reporting, workflows, integrations  
-- 🤖 **IoT & Automation:** ESP32 projects, smart systems, automation  
+### 💻 What I Do
+- **Web Development:** Full-stack builds, PHP, JavaScript, and modern frameworks  
+- **CMS Expertise:** WordPress, Drupal, and bespoke CMS platforms  
+- **ERP & Integrations:** Global ERP admin (NetSuite), custom reporting, and automation  
+- **IoT Projects:** ESPHome, MQTT, and Home Assistant integrations  
+- **DevOps & Infrastructure:** Linux, Docker, DigitalOcean and server management  
 
-⚡ Fun fact: I’ve been converting a VW Crafter into a road-trip van while managing coding projects remotely! The van has a HomeAssistant core allowing for automations and monitoring.  
+### 🚀 What I'm Working On
+- Expanding my portfolio at [**danclarke.io**](https://danclarke.io)  
+- Open-source ESP32 automation projects  
+- Exploring modern web stacks and deployment pipelines  
+
+### 🧠 What I'm Learning
+- Vue.js, React, TypeScript, and edge deployment strategies  
+- Cloud-native tooling and service integrations  
+
+### 💬 Ask Me About
+Web development, system integrations, IoT automation, or converting vans into smart living spaces 🚐  
+
+### 📫 Connect
+🌐 [**danclarke.io**](https://danclarke.io)  
+📧 contact@danclarke.io 
+
+---
+
+⚡ **Fun fact:** When I’m not writing code, I’m usually travelling the UK (and beyond) in my self-converted VW Crafter van — complete with smart systems, sensors, and diesel heater, all inter-connected with HomeAssistant.
