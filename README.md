@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Dan Clarke** — a Web Developer and Systems Administrator with over **20 years of experience** in technology, including **PHP**, **CMS development**, **automation**, and **system integrations**.  
+I’m **Dan Clarke** - a Web Developer and Systems Administrator with over **20 years of experience** in technology, including **PHP**, **CMS development**, **automation**, and **system integrations**.  
 
 I’m passionate about building clean, efficient web solutions that solve real business problems - from full-stack web apps and ERP systems to connected IoT devices running on ESP32s.
 
@@ -31,4 +31,4 @@ Web development, system integrations, IoT automation, or converting vans into sm
 
 ---
 
-⚡ **Fun fact:** When I’m not writing code, I’m usually travelling the UK (and beyond) in my self-converted VW Crafter van — complete with smart systems, sensors, and diesel heater, all inter-connected with HomeAssistant.
+⚡ **Fun fact:** When I’m not writing code, I’m usually travelling the UK (and beyond) in my self-converted VW Crafter van - complete with smart systems, sensors, and diesel heater, all inter-connected with HomeAssistant.
