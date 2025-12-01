@@ -2,7 +2,9 @@
 
 I’m **Dan Clarke** — a Web Developer and Systems Administrator with over **20 years of experience** in technology, including **PHP**, **CMS development**, **automation**, and **system integrations**.  
 
-I’m passionate about building clean, efficient web solutions that solve real business problems — from full-stack web apps and ERP systems to connected IoT devices running on ESP32s.
+I’m passionate about building clean, efficient web solutions that solve real business problems - from full-stack web apps and ERP systems to connected IoT devices running on ESP32s.
+
+Hire me to work on your project through [**UpWork**](https://www.upwork.com/freelancers/~01a33c964649c24faf).
 
 ### 💻 What I Do
 - **Web Development:** Full-stack builds, PHP, JavaScript, and modern frameworks  
